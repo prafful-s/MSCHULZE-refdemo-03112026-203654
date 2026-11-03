@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/MSCHULZE/genstudio_ms/language-masters/en:/",
+    "/content/MSCHULZE/genstudio_ms/language-masters/en/:/en/",
+    "/content/MSCHULZE/genstudio_ms/language-masters/fr/:/fr/",
+    "/content/MSCHULZE/genstudio_ms/language-masters/fr:/fr",
+    "/content/MSCHULZE/genstudio_ms/language-masters/es/:/es/",
+    "/content/MSCHULZE/genstudio_ms/language-masters/es:/es",
+    "/content/MSCHULZE/genstudio_ms/language-masters/ja/:/ja/",
+    "/content/MSCHULZE/genstudio_ms/language-masters/ja:/ja",
+    "/content/MSCHULZE/genstudio_ms/language-masters/de/:/de/",
+    "/content/MSCHULZE/genstudio_ms/language-masters/de:/de",
+    "/content/MSCHULZE/genstudio_ms/configuration:/.helix/config.json",
+    "/content/MSCHULZE/genstudio_ms/metadata:/metadata.json",
+    "/content/MSCHULZE/genstudio_ms/redirects:/redirects.json",
+    "/content/MSCHULZE/genstudio_ms/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/MSCHULZE/genstudio_ms/",
+    "/content/dam/MSCHULZE/genstudio_ms/"
   ]
 }
